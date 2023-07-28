@@ -5,4 +5,5 @@
                'Balance (23 septembre - 22 octobre)', 'Scorpion (23 octobre - 22 novembre)'];
 
     let msg = Math.floor(Math.random() * msgs.length);
+    console.log(msgs[msg]);
 
